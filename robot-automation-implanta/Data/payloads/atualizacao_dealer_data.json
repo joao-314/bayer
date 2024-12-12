@@ -1,0 +1,68 @@
+{
+    "dealers": [
+        {
+            "name": "[1]Cenario 5: Atualizacao de dados do Dealer, mantendo apenas os campos dealerInternalCode e countryCode iguais, no mesmo payload",
+            "tradeName": "Trade Name Automacao",
+            "contacts": [
+                {
+                    "type": "EMAIL",
+                    "description": "TD3ypW17fq"
+                }
+            ],
+            "dealerInternalCode": "TtFt",
+            "countryCode": "BR",
+            "documents": [
+                {
+                    "number": "2pTYoZq8ab",
+                    "type": "CNPJ"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressType": "VISITING",
+                    "locationType": "FARM",
+                    "street": "OdpWi2TtEn",
+                    "countryCode": "BR",
+                    "number": "XMaXSahnXq",
+                    "auxiliar": "ruy28o2bwL",
+                    "postalCode": "WY2MDslGkP",
+                    "neighborhood": "J3JGEMjwv3",
+                    "city": "48jKmt9wLV",
+                    "state": "mdnftBS3Hf"
+                }
+            ]
+        },
+        {
+            "name": "[2]Cenario 5: Atualizacao de dados do Dealer, mantendo apenas os campos dealerInternalCode e countryCode iguais, no mesmo payload",
+            "tradeName": "Trade Name Automacao",
+            "contacts": [
+                {
+                    "type": "EMAIL",
+                    "description": "g7c7qiqc9m"
+                }
+            ],
+            "dealerInternalCode": "lHMOD9n4Nn",
+            "countryCode": "BR",
+            "documents": [
+                {
+                    "number": "sL2GrGk8wi",
+                    "type": "CNPJ"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressType": "VISITING",
+                    "locationType": "FARM",
+                    "street": "woI7HxEKu6",
+                    "countryCode": "BR",
+                    "number": "VWSCWw1sl3",
+                    "auxiliar": "nvK7UKNhdG",
+                    "postalCode": "i79VMXNx8C",
+                    "neighborhood": "VimYPwtGnt",
+                    "city": "7KXmrgWhB5",
+                    "state": "1CmSM7TYTw"
+                }
+            ]
+        }
+    ]
+}

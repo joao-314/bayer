@@ -1,0 +1,68 @@
+{
+    "dealers": [
+        {
+            "name": "[1]Cenario 3 - Criacao de dois novos Dealers, com o internalCode igual, enviados no mesmo payload",
+            "tradeName": "trade Name Test",
+            "contacts": [
+                {
+                    "type": "PHONE",
+                    "description": "WWRaLjefcS"
+                }
+            ],
+            "dealerInternalCode": "kUvr",
+            "countryCode": "BR",
+            "documents": [
+                {
+                    "number": "DM4kMZ3PPE",
+                    "type": "CPF"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressType": "BILLING",
+                    "locationType": "WAREHOUSE",
+                    "street": "sFMS7AEoNl",
+                    "countryCode": "BR",
+                    "number": "7TlsisPQxP",
+                    "auxiliar": "UNwiPtQz6b",
+                    "postalCode": "SfvBMwvnX6",
+                    "neighborhood": "VE0Erro0Yp",
+                    "city": "S0fduIlOfP",
+                    "state": "nyedUShC4C"
+                }
+            ]
+        },
+        {
+            "name": "[2]Cenario 3 - Criacao de dois novos Dealers, com o internalCode igual, enviados no mesmo payload",
+            "tradeName": "[2]Cenario 3",
+            "contacts": [
+                {
+                    "type": "PHONE",
+                    "description": "31241231231"
+                }
+            ],
+            "dealerInternalCode": "awsB",
+            "countryCode": "BR",
+            "documents": [
+                {
+                    "number": "6c6xkxQt3D",
+                    "type": "CPF"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressType": "MAILING",
+                    "locationType": "FARM",
+                    "street": "Calle Distribuidor 4",
+                    "countryCode": "BR",
+                    "number": "23123",
+                    "auxiliar": "Edificio Distribuidor 4",
+                    "postalCode": "91231-22",
+                    "neighborhood": "Capital",
+                    "city": "Osasco",
+                    "state": "Brasil"
+                }
+            ]
+        }
+    ]
+}

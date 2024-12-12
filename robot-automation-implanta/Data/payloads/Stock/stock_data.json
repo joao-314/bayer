@@ -1,0 +1,25 @@
+{
+    "dealersStock": [
+        {
+            "countryCode": "BR",
+            "dealerInternalCode": "jo2f",
+            "stock": [
+                {
+                    "frequency": "YEARLY",
+                    "sourceType": "MANUAL",
+                    "type": "INVENTORY",
+                    "date": "2024-10-09",
+                    "materialCode": "000000000030093564",
+                    "unitOfMeasure": "BAG",
+                    "stockDetail": [
+                        {
+                            "quantity": 60.83670183702124,
+                            "stockType": "AVAILABLE",
+                            "batchNumber": "[AUT]CT1-Criacao de um novo Stock"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

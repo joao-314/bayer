@@ -1,0 +1,16 @@
+{
+    "internal": {
+        "baseUrl": "https://glzu06jb1i.execute-api.us-east-1.amazonaws.com/qa",
+        "apiKey": "Q9oRt0BFz4eNFO7RMi1p4w75WZiY5HE3xE84B6y7"
+    },
+    "external": {
+        "baseUrl": "https://oltly92u2f.execute-api.us-east-1.amazonaws.com/qa",
+        "apiKey": "97TncffwK94fbuNDwE8kr2KPZToTilf44O3hrzMy",
+        "oauth": {
+            "url": "https://login.microsoftonline.com/fcb2b37b-5da0-466b-9b83-0014b67a7c78/oauth2/v2.0/token",
+            "clientId": "74a21c9f-06f8-4add-bca4-1cadb5ae2c92",
+            "clientSecret": ".w.7Q~n~WRz~eVzjWlIbfRIV7ykVlsnEVPAEA"
+        }
+    },
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb3VudHJpZXMiOlt7ImlkIjoiQVBQRVJURUNILVNFTExPVVQtTUFOQUdFTUVOVC1TWVNURU0tQUNDRVNTIiwibmFtZSI6IkFwcGVydGVjaCBTZWxsb3V0IE1hbmFnZW1lbnQgU3lzdGVtIEFjY2VzcyJ9LHsiaWQiOiJTRUxMT1VULU1BTkFHRU1FTlQtQlJBU0lMIiwibmFtZSI6IlNlbGxvdXQgTWFuYWdlbWVud"
+}

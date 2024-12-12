@@ -1,0 +1,35 @@
+{
+    "dealers": [
+        {
+            "name": "Cria\u00e7\u00e3o de um novo Dealer",
+            "tradeName": "Cen\u00e1rio 1",
+            "contacts": [
+                {
+                    "type": "PHONE",
+                    "description": "(11)97867-0982"
+                }
+            ],
+            "dealerInternalCode": "jo2f",
+            "countryCode": "BR",
+            "documents": [
+                {
+                    "number": "68304185073550",
+                    "type": "CNPJ"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressType": "BILLING",
+                    "locationType": "CONSIGNEE",
+                    "countryCode": "BR",
+                    "street": "PC MARIA ANGELICA",
+                    "number": "45",
+                    "postalCode": "48430000",
+                    "geocode": "-10.6863183,-37.8629045",
+                    "city": "Paripiranga",
+                    "state": "BA"
+                }
+            ]
+        }
+    ]
+}

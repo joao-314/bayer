@@ -1,0 +1,68 @@
+{
+    "dealers": [
+        {
+            "name": "Cria\u00e7\u00e3o de um novo Dealer, inserindo um dealerMainInternalCode",
+            "tradeName": "Cen\u00e1rio 2",
+            "contacts": [
+                {
+                    "type": "PHONE",
+                    "description": "551170708787"
+                }
+            ],
+            "dealerInternalCode": "SlGj",
+            "countryCode": "BR",
+            "documents": [
+                {
+                    "number": "nUqGQxpIb1",
+                    "type": "CPF"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressType": "BILLING",
+                    "locationType": "WAREHOUSE",
+                    "street": "Calle Distribuidor 3",
+                    "countryCode": "BR",
+                    "number": "900",
+                    "auxiliar": "Edificio Distribuidor 3",
+                    "postalCode": "9000-000",
+                    "neighborhood": "Centro 4",
+                    "city": "Buenos Aires",
+                    "state": "Buenos Aires"
+                }
+            ]
+        },
+        {
+            "name": "[2]Cenario 3 - Criacao de dois novos Dealers, com o internalCode igual, enviados no mesmo payload",
+            "tradeName": "[2]Cenario 3",
+            "contacts": [
+                {
+                    "type": "PHONE",
+                    "description": "551170708787"
+                }
+            ],
+            "dealerInternalCode": "Wc98",
+            "countryCode": "AR",
+            "documents": [
+                {
+                    "number": "Wbg14bLufE",
+                    "type": "CPF"
+                }
+            ],
+            "addresses": [
+                {
+                    "addressType": "BILLING",
+                    "locationType": "WAREHOUSE",
+                    "street": "Calle Distribuidor 3",
+                    "countryCode": "BR",
+                    "number": "900",
+                    "auxiliar": "Edificio Distribuidor 3",
+                    "postalCode": "9000-000",
+                    "neighborhood": "Centro 4",
+                    "city": "Buenos Aires",
+                    "state": "Buenos Aires"
+                }
+            ]
+        }
+    ]
+}

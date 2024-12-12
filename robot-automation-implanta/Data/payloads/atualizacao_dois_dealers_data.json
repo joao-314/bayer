@@ -1,0 +1,68 @@
+{
+  "dealers": [
+    {
+      "name": "[1]Cenario 5: Atualizacao de dados do Dealer, mantendo apenas os campos dealerInternalCode e countryCode iguais, no mesmo payload",
+      "tradeName": "Trade Name Automacao",
+      "contacts": [
+        {
+          "type": "EMAIL",
+          "description": "ghblu6kAQC"
+        }
+      ],
+      "dealerInternalCode": "TtF123",
+      "countryCode": "BR",
+      "documents": [
+        {
+          "number": "nirdpJmnkw",
+          "type": "CNPJ"
+        }
+      ],
+      "addresses": [
+        {
+          "addressType": "VISITING",
+          "locationType": "FARM",
+          "street": "6znyuOli0s",
+          "countryCode": "BR",
+          "number": "Psq5s8EKny",
+          "auxiliar": "hmtuMV5lnH",
+          "postalCode": "cJ2WOYvrA3",
+          "neighborhood": "Bo7oTmBjLg",
+          "city": "oDsXE9UZwm",
+          "state": "llZcYNlTMJ"
+        }
+      ]
+    },
+    {
+      "name": "[2]Cenario 5: Atualizacao de dados do Dealer, mantendo apenas os campos dealerInternalCode e countryCode iguais, no mesmo payload",
+      "tradeName": "Trade Name Automacao",
+      "contacts": [
+        {
+          "type": "EMAIL",
+          "description": "ghblu6kAQC"
+        }
+      ],
+      "dealerInternalCode": "TtFtasd",
+      "countryCode": "BR",
+      "documents": [
+        {
+          "number": "nirdpJmnkw",
+          "type": "CNPJ"
+        }
+      ],
+      "addresses": [
+        {
+          "addressType": "VISITING",
+          "locationType": "FARM",
+          "street": "6znyuOli0s",
+          "countryCode": "BR",
+          "number": "Psq5s8EKny",
+          "auxiliar": "hmtuMV5lnH",
+          "postalCode": "cJ2WOYvrA3",
+          "neighborhood": "Bo7oTmBjLg",
+          "city": "oDsXE9UZwm",
+          "state": "llZcYNlTMJ"
+        }
+      ]
+    }
+  ]
+}
